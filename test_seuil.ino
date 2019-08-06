@@ -8,7 +8,7 @@ void loop() {
   int tab[100];
   long int sum = 0;
   for (int i = 0; i < 100; i++) { // lecture de 100 valeurs
-    tab[i] = analogRead(A0);
+    tab[i] = analogRead(A1);
     sum += tab[i];
     delay(10);
   } 
