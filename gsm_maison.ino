@@ -1,4 +1,4 @@
-
+/* This older version of code use a classic Arduino and a gsm shield SIM 900 */
 #include <SoftwareSerial.h>
 #include <Servo.h>
 
