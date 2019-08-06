@@ -1,0 +1,6 @@
+#define SECRET_PINNUMBER "0000"
+
+#define ALEX "+33751965117"
+#define MAX "+33751965117"
+#define SIMON "+33751965117"
+#define DENIS "+33751965117"
